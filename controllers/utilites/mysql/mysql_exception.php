@@ -1,0 +1,4 @@
+<?
+class mysqlException extends Exception{
+}
+?>
